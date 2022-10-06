@@ -79,7 +79,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack        #steve: theme used in local pc
+# theme: jekyll-theme-hydejack        #steve: theme used in local pc
 remote_theme: hydecorp/hydejack@v9  #steve: theme used in web
 
 
